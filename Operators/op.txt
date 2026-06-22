@@ -1,0 +1,116 @@
+#Programming needs some symbols to do operations
+
+symbols--.operators
+
+operators:
+Arithmetic Operators
+
+Used for math calculations.
+
+Operator	Meaning	Example
++	Addition	5 + 2 = 7
+-	Subtraction	5 - 2 = 3
+*	Multiplication	5 * 2 = 10
+/	Division	5 / 2 = 2.5
+%	Modulus (remainder)	5 % 2 = 1
+Assignment Operators
+
+Assign values to variables.
+
+Operator	Example	Meaning
+=	x = 5	Assign 5 to x
++=	x += 2	x = x + 2
+-=	x -= 2	x = x - 2
+Comparison Operators
+
+Compare two values and return true/false.
+
+Operator	Example
+==	5 == 5 → true
+!=	5 != 3 → true
+>	5 > 3
+<	5 < 3
+>=	5 >= 5
+<=	5 <= 4
+Logical Operators
+
+Used with conditions.
+
+Operator	Meaning
+&&	AND
+`	
+!	NOT
+
+Example:
+
+if (a > 5 && b < 10)
+Increment/Decrement Operators
+Operator	Meaning
+++	Increase by 1
+--	Decrease by 1
+
+Example:
+
+x++;
+In Mathematics
+
+Operators are symbols representing operations.
+
+Examples:
+
++ → addition
+− → subtraction
+× → multiplication
+÷ → division
+In SQL
+
+Operators are used in database queries.
+
+Example:
+
+SELECT * FROM students WHERE marks > 80;
+
+Here > is a comparison operator.
+
+In Java / C / Python
+
+Most operators are similar, but syntax can vary slightly by language.
+
+Example in Python:
+
+a = 10
+b = 3
+print(a % b)
+
+Output:1
+ 
+ comparison & relational operators
+ to compare the values
+ and returns boolean value
+
+ greater >
+ smaller then <
+ Equality ==
+ greater or equal >=
+ less then or equal <=
+ Not Equal !=
+
+ Logical operators?
+
+ To check the multiple conditions
+ 1. and --> & (when both of the conditions are true)
+ 2. or ---> | , `(Any one is true)
+ 3. not --> ~ (Opposite results)
+
+ Bitwise Operators:
+ computer understand's o's 
+
+ performs operations bit by bit:
+ it compares each and every bit
+ operator | Name
+&          Bitwise AND
+|          Bitwise OR
+^          Bitwise XOR
+~          Bitwise NOT
+<<         Left shift
+>>         Right shift
